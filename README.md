@@ -1,7 +1,7 @@
 # first_project
 My first github project
-a
-b
+a *
+b &
 c
 d
 e
